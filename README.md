@@ -1,3 +1,7 @@
 # basic-nodejs-express-app
 
-Run with command `npm start`
+First thing to do is to run dependencies with command `npm install`
+
+Then run with command `npm start`
+
+App url `http://localhost:3000`
